@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: "Manrope", sans-serif !important;
+  background-color: #121B2D;
+  color: #f6f6f6;
+}.root {
+  width: 600px;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  background-color: #04081A;
+  min-height: 100vh; // Add this line
+  box-sizing: border-box; // Add this line
+}
+
+.root {
+  width: 600px;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  background-color: #04081A;
+  min-height: 100vh;
+  
+  a {
+    color: #f6f6f6;
+  }
+}

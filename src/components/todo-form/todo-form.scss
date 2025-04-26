@@ -1,0 +1,30 @@
+.todo-form {
+  display: flex;
+  justify-content: center;
+
+  input {
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin-right: 5px;
+    width: 250px;
+    color: #f6f6f6;
+    background: #09090B;
+    border: 1px solid #666666;
+    font-size: 16px;
+  }
+
+  button {
+    cursor: pointer;
+    background: #0C6146;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    width: 110px;
+
+    &:hover {
+      background: #0C6146;
+    }
+  }
+}

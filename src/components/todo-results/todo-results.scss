@@ -1,0 +1,22 @@
+.todo-results {
+  font-weight: 500;
+  font-size: 18px;
+  text-align: start;
+  display: block;
+  padding: 5px 0;
+  margin-bottom: 4px;
+  width: 100%;
+  max-width: 392px;
+  margin: 0 auto;
+
+  p {
+    margin-bottom: 0px;
+    font-size: 12px;
+
+    span {
+      border: 1px solid #f6f6f6;
+      padding: 6px 10px;
+      border-radius: 16px;
+    }
+  }
+}
