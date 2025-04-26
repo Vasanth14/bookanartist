@@ -58,6 +58,10 @@
       box-shadow: none;
       border: 1px solid #434343;
     }
+
+    button.active {
+      border: 1px solid #f6f6f6;
+    }
   }
 
   .pagination-controls {
@@ -81,6 +85,13 @@
       box-shadow: none;
       border: 1px solid #434343;
     }
+
+    button:disabled {
+      background-color: #4f4f4f !important;
+      color: #1c1c1c;
+      cursor: not-allowed;
+    }
+
     span {
       font-size: 14px;
     }
