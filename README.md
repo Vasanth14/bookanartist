@@ -14,8 +14,8 @@
 - [✅] **Fixed the functionality to mark a task as completed**
 - [✅] **Fixed the functionality to delete a task**
 - [✅] **Fixed the count of completed tasks**
-- [✅] Add a **search feature** to filter tasks
-- [✅] **Add a filter button** to view:
+- [✅] Added a **search feature** to filter tasks
+- [✅] **Added a filter button** to view:
   - Only completed tasks
   - Only incomplete tasks
   - All tasks
@@ -25,8 +25,8 @@
 ## ⭐ Bonus Points
 
 - [✅] Implemented **pagination** if the list has more than 10 items
-- [✅] Improve UI/UX or layout
-- [✅] Add **accessibility enhancements**
+- [✅] Improved UI/UX
+- [✅] Added **accessibility enhancements**
 
 ---
 
